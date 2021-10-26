@@ -6,7 +6,7 @@ This will be 100% me as a aspiring developer trying to prove myself and say to m
 
 
 
-![alt text](http://github.com/sanchezzjf/sanchat/blob/main/.img/thanks.jpeg)
+![alt text](http://github.com/sanchezzjf/sanchat/blob/main/.img/thanks.jpg)
 ---
 
 This is probably not going to reach anyone, but if you are here, be my guest.
